@@ -31,7 +31,7 @@ Claims, assignments, merges and resolutions persist per user; dark and light the
 
 ## Part of an operations ecosystem
 
-Ticket Triage is one of five control surfaces for a single multi-hub operation, built to follow one decision down the whole chain — *from the shift being covered to the cash being collected*:
+Ticket Triage is one of six control surfaces for a single multi-hub operation, built to follow one decision down the whole chain — *from the shift being covered to the cash being collected*:
 
 | Stage | Tool | The question it answers |
 |---|---|---|
